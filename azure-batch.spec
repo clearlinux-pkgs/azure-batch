@@ -4,7 +4,7 @@
 #
 Name     : azure-batch
 Version  : 9.0.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/76/eb/dfd058cad009024cfbb8b22c1f6e75d5f9c035a9f04db50a4360d59130d2/azure-batch-9.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/76/eb/dfd058cad009024cfbb8b22c1f6e75d5f9c035a9f04db50a4360d59130d2/azure-batch-9.0.0.zip
 Summary  : Microsoft Azure Batch Client Library for Python
